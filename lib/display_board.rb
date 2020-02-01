@@ -12,4 +12,3 @@ def display_board(the_board)
 end
 
 display_board(turn_1)
-
